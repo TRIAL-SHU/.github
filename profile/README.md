@@ -4,7 +4,7 @@
 [![Research Focus](https://img.shields.io/badge/Focus-Trustworthy%20%26%20Robust%20AI-blue.svg)](#-core-research-pillars)
 [![Open Source](https://img.shields.io/badge/Code-Open%20Source-green.svg)](#-open-source-software)
 
-The **Trustworthy, Robust & Interpretable AI Lab (TRIAL)** is a specialized research node within the **Centre of Excellence for AI and Robotics (CEAIR)** at **Sheffield Hallam University**. 
+The **Trustworthy, Robust & Interpretable AI Lab (TRIAL)** is a specialized research node within the **Centre of Excellence for AI and Robotics (CEAIR)** at **Sheffield Hallam University** led by **Dr. Jamie Duell**. 
 
 ---
 
