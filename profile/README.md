@@ -42,6 +42,8 @@ Our research sits at the intersection of machine learning theory and real-world 
   - Mr. Laith Alabbadi — `Laith.AmjadArefAlabbadi@student.shu.ac.uk`
   - TBC. — 
 
+   *Affiliate Researchers:*
+  - Dr. Peiyu Li — *Assistant Professor at South Dakota State University* | 🎓 [Google Scholar](https://scholar.google.com/citations?user=0VUNbKEAAAAJ&hl=en)
 ---
 
 ## 🤝 Collaboration & Contact
