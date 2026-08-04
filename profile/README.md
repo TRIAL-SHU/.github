@@ -37,7 +37,8 @@ Our research sits at the intersection of machine learning theory and real-world 
 * **Lab Director:**
   - Dr. Jamie Duell — *Lecturer in Artificial Intelligence* (`j.duell@shu.ac.uk`) | 🎓 [Google Scholar](https://scholar.google.com/citations?user=D6AjgCQAAAAJ&hl=en)
 * **Research Team:**
-  *PhD Candidates:*
+
+   *PhD Candidates:*
   - Mr. Laith Alabbadi — `Laith.AmjadArefAlabbadi@student.shu.ac.uk`
   - TBC. — 
 
