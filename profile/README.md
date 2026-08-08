@@ -22,10 +22,10 @@ Our research sits at the intersection of machine learning theory and real-world 
   Developing probabilistic counterfactual explanations and diagnostic feature attributions that explain *why* predictions occur and *how* to safely act.
 
 *  **Model Robustness & Security**  
-  Pioneering adversarial defense mechanisms, PAC-Bayes bounds, and robust frameworks for agentic AI and autonomous systems.
+  Pioneering adversarial defense mechanisms via robust frameworks for agentic AI and autonomous systems.
 
 *  **Uncertainty Quantification**  
-  Applying Bayesian neural networks and distribution-shift models to evaluate confidence bounds under noisy execution conditions.
+  Applying Bayesian neural networks and distribution-shift models to evaluate confidence bounds under model changes, noisy execution, input perturbations and more.
 
 *  **High-Stakes Applications**  
   Translating safety-critical AI into impactful solutions across cybersecurity, network defense, healthcare diagnostics, and biomedical discovery.
